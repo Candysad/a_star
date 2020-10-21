@@ -1,4 +1,4 @@
-# codes
+# A* 算法
 a release for a_star test
 A* 算法
 一个简单的A*算法(A star / a_star)
