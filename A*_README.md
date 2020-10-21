@@ -1,4 +1,8 @@
 # codes
+a release for a_star test
+A* 算法
+一个简单的A*算法(A star / a_star)
+使用了错误棋子数和曼哈顿距离做估值函数
 A* 算法
 这个A* 算法没用结构体储存八数码的结构
 path数组储存八数码
